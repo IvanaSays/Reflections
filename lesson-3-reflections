@@ -7,3 +7,6 @@ Cloning means making a copy from GitHub to local repository (my computer), or fr
 basically teh same thing, except from GitHub to GitHub. Branches operate on local repositories only - they serve to enable different users to work on the same code without screwing up the master.  
 What is the benefit of having a copy of the last known state of the remote stored locally?
 To be able to look at it if you are offline for a while. 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When I want others to be able to review them before I merge, when I am unsure of whether they are correct, etc. 
